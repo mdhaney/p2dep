@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.haneysoft.feature.mockito_1.9.5.jar" id="com.haneysoft.feature.mockito" version="1.9.5">
+      <category name="com.haneysoft.p2dep.testing"/>
+   </feature>
+   <category-def name="com.haneysoft.p2dep.testing" label="Testing Utilities"/>
+</site>
